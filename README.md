@@ -6,6 +6,7 @@ Olá, eu sou a Clarissa 😊
 - 🔭 I’m looking for a Front-end job
 - 🌱 I’m currently learning Typescript
 
+
 - 🔭 Estou procurando trabalhar com Front-end
 - 🌱 Atualmente estudo Typescript
 
